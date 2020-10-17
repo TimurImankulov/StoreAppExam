@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Store</string>
+    <string name="label">Почта</string>
+    <string name="password">Пароль</string>
+    <string name="password_hint">Введите пароль</string>
+    <string name="email_hint">Введите почту</string>
+    <string name="enter">Войти</string>
+    <string name="productlist">Список товаров</string>
+    <string name="price">Цена</string>
+    <string name="description">Описание</string>
+    <string name="buy">Купить</string>
+    <string name="dialog_description">Вы успешно купили товар:</string>
+    <string name="ok">ок</string>
+    <string name="back">Назад</string>
+</resources>
